@@ -1,0 +1,22 @@
+.navbar {
+    align-items: center;
+    padding: 1rem;
+    background-color: greenyellow;
+}
+.h1 {
+ background-color: brown;
+ text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; 
+}
+body {
+    font-family: 'Times New Roman';
+    margin: 0;
+}
+header {
+    background-color: blue;
+    padding: 20px 0;
+}

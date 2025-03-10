@@ -1,24 +1,24 @@
 
 
 body {
-    font-family: sans-serif;
-    margin: 1px;
+    font-family: Verdana;
+    margin: 2px;
 }
 
 header {
     background-color: #f0f0f0;
-    padding: 20px ;
+    padding: 20px;
 }
 
 nav ul {
     list-style-type: none;
-    padding: 0px;
+    padding: 1px;
     text-align: center; 
 }
 
 nav li {
     display: inline; 
-    margin:  10px;
+    margin: 0 10px;
 }
 
 nav a {
@@ -38,7 +38,7 @@ nav a {
 }
 
 .price {
-    font-size: 1.2rem;
+    font-size: 1.2em;
     font-weight: bold;
     color: green; 
 }
@@ -56,7 +56,7 @@ nav a {
 }
 
 .review {
-    border: 1px solid #cccccc;
+    border: 1px solid #ccc;
     margin-bottom: 10px;
     padding: 15px;
 }
